@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/paprikaSlice.obj-ca04c6d02aeca9c7e3b1b9ae8c174d0f.mesh"
+
+[deps]
+
+files=[ "res://.import/paprikaSlice.obj-ca04c6d02aeca9c7e3b1b9ae8c174d0f.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/paprikaSlice.obj"
+dest_files=[ "res://.import/paprikaSlice.obj-ca04c6d02aeca9c7e3b1b9ae8c174d0f.mesh", "res://.import/paprikaSlice.obj-ca04c6d02aeca9c7e3b1b9ae8c174d0f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

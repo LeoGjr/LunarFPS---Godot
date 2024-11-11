@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/muffin.obj-3725d79dfe7a8fc0f182267df27054ef.mesh"
+
+[deps]
+
+files=[ "res://.import/muffin.obj-3725d79dfe7a8fc0f182267df27054ef.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/muffin.obj"
+dest_files=[ "res://.import/muffin.obj-3725d79dfe7a8fc0f182267df27054ef.mesh", "res://.import/muffin.obj-3725d79dfe7a8fc0f182267df27054ef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocket_topB.obj-b9215f1ce3af6b40308069878b1b64d8.mesh"
+
+[deps]
+
+files=[ "res://.import/rocket_topB.obj-b9215f1ce3af6b40308069878b1b64d8.mesh" ]
+
+source_file="res://Material da Aula/Modelos/rocket_topB.obj"
+dest_files=[ "res://.import/rocket_topB.obj-b9215f1ce3af6b40308069878b1b64d8.mesh", "res://.import/rocket_topB.obj-b9215f1ce3af6b40308069878b1b64d8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

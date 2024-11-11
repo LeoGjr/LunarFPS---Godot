@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cherries.obj-3528c1aaf2c09e510cadbe1b9b41510e.mesh"
+
+[deps]
+
+files=[ "res://.import/cherries.obj-3528c1aaf2c09e510cadbe1b9b41510e.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cherries.obj"
+dest_files=[ "res://.import/cherries.obj-3528c1aaf2c09e510cadbe1b9b41510e.mesh", "res://.import/cherries.obj-3528c1aaf2c09e510cadbe1b9b41510e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

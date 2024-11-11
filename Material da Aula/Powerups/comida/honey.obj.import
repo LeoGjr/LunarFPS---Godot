@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/honey.obj-075d4ac524d554eda1e658a6f526d4ef.mesh"
+
+[deps]
+
+files=[ "res://.import/honey.obj-075d4ac524d554eda1e658a6f526d4ef.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/honey.obj"
+dest_files=[ "res://.import/honey.obj-075d4ac524d554eda1e658a6f526d4ef.mesh", "res://.import/honey.obj-075d4ac524d554eda1e658a6f526d4ef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

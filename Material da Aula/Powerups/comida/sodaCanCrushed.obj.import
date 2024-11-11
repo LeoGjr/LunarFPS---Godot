@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sodaCanCrushed.obj-f34f3c7da064c0329cd23229b075671f.mesh"
+
+[deps]
+
+files=[ "res://.import/sodaCanCrushed.obj-f34f3c7da064c0329cd23229b075671f.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/sodaCanCrushed.obj"
+dest_files=[ "res://.import/sodaCanCrushed.obj-f34f3c7da064c0329cd23229b075671f.mesh", "res://.import/sodaCanCrushed.obj-f34f3c7da064c0329cd23229b075671f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

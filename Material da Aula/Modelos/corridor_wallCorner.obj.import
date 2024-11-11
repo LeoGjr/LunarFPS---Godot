@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corridor_wallCorner.obj-f7eeefd1d32d3a33419e19cbf8eea7ae.mesh"
+
+[deps]
+
+files=[ "res://.import/corridor_wallCorner.obj-f7eeefd1d32d3a33419e19cbf8eea7ae.mesh" ]
+
+source_file="res://Material da Aula/Modelos/corridor_wallCorner.obj"
+dest_files=[ "res://.import/corridor_wallCorner.obj-f7eeefd1d32d3a33419e19cbf8eea7ae.mesh", "res://.import/corridor_wallCorner.obj-f7eeefd1d32d3a33419e19cbf8eea7ae.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

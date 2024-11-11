@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/frappe.obj-b620e071bfc1fb144fa1bc5149fcc96f.mesh"
+
+[deps]
+
+files=[ "res://.import/frappe.obj-b620e071bfc1fb144fa1bc5149fcc96f.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/frappe.obj"
+dest_files=[ "res://.import/frappe.obj-b620e071bfc1fb144fa1bc5149fcc96f.mesh", "res://.import/frappe.obj-b620e071bfc1fb144fa1bc5149fcc96f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

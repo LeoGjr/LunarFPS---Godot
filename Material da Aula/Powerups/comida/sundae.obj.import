@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sundae.obj-b9fdacce457b3d1e335d2ce59f457089.mesh"
+
+[deps]
+
+files=[ "res://.import/sundae.obj-b9fdacce457b3d1e335d2ce59f457089.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/sundae.obj"
+dest_files=[ "res://.import/sundae.obj-b9fdacce457b3d1e335d2ce59f457089.mesh", "res://.import/sundae.obj-b9fdacce457b3d1e335d2ce59f457089.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

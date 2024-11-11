@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairs_short.obj-3de4157d1939a682a1f45d315701585f.mesh"
+
+[deps]
+
+files=[ "res://.import/stairs_short.obj-3de4157d1939a682a1f45d315701585f.mesh" ]
+
+source_file="res://Material da Aula/Modelos/stairs_short.obj"
+dest_files=[ "res://.import/stairs_short.obj-3de4157d1939a682a1f45d315701585f.mesh", "res://.import/stairs_short.obj-3de4157d1939a682a1f45d315701585f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

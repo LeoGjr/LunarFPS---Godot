@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tajine.obj-facc0e97edeae93d6f3c121a1da4d481.mesh"
+
+[deps]
+
+files=[ "res://.import/tajine.obj-facc0e97edeae93d6f3c121a1da4d481.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/tajine.obj"
+dest_files=[ "res://.import/tajine.obj-facc0e97edeae93d6f3c121a1da4d481.mesh", "res://.import/tajine.obj-facc0e97edeae93d6f3c121a1da4d481.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

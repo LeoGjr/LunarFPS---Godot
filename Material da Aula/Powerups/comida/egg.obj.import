@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/egg.obj-0513b012a8f6c82b01ea7c956b8e3d9d.mesh"
+
+[deps]
+
+files=[ "res://.import/egg.obj-0513b012a8f6c82b01ea7c956b8e3d9d.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/egg.obj"
+dest_files=[ "res://.import/egg.obj-0513b012a8f6c82b01ea7c956b8e3d9d.mesh", "res://.import/egg.obj-0513b012a8f6c82b01ea7c956b8e3d9d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

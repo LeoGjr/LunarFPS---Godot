@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bottleMusterd.obj-dc0e6ae7a0bde68c3d7e8c2329c51eee.mesh"
+
+[deps]
+
+files=[ "res://.import/bottleMusterd.obj-dc0e6ae7a0bde68c3d7e8c2329c51eee.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/bottleMusterd.obj"
+dest_files=[ "res://.import/bottleMusterd.obj-dc0e6ae7a0bde68c3d7e8c2329c51eee.mesh", "res://.import/bottleMusterd.obj-dc0e6ae7a0bde68c3d7e8c2329c51eee.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

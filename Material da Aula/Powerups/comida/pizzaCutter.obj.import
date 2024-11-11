@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pizzaCutter.obj-210973c8682f966f96aa5ea48afef489.mesh"
+
+[deps]
+
+files=[ "res://.import/pizzaCutter.obj-210973c8682f966f96aa5ea48afef489.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/pizzaCutter.obj"
+dest_files=[ "res://.import/pizzaCutter.obj-210973c8682f966f96aa5ea48afef489.mesh", "res://.import/pizzaCutter.obj-210973c8682f966f96aa5ea48afef489.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

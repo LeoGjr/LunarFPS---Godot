@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatCooked.obj-49464fff5725044c9fe94e6aaa83b6ec.mesh"
+
+[deps]
+
+files=[ "res://.import/meatCooked.obj-49464fff5725044c9fe94e6aaa83b6ec.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/meatCooked.obj"
+dest_files=[ "res://.import/meatCooked.obj-49464fff5725044c9fe94e6aaa83b6ec.mesh", "res://.import/meatCooked.obj-49464fff5725044c9fe94e6aaa83b6ec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

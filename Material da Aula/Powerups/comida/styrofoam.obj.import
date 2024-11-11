@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/styrofoam.obj-0add87df78966382fe1a2c4aec58c89b.mesh"
+
+[deps]
+
+files=[ "res://.import/styrofoam.obj-0add87df78966382fe1a2c4aec58c89b.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/styrofoam.obj"
+dest_files=[ "res://.import/styrofoam.obj-0add87df78966382fe1a2c4aec58c89b.mesh", "res://.import/styrofoam.obj-0add87df78966382fe1a2c4aec58c89b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

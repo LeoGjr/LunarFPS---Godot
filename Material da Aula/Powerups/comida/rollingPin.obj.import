@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rollingPin.obj-c015c52592779e9d479f54105b910a84.mesh"
+
+[deps]
+
+files=[ "res://.import/rollingPin.obj-c015c52592779e9d479f54105b910a84.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/rollingPin.obj"
+dest_files=[ "res://.import/rollingPin.obj-c015c52592779e9d479f54105b910a84.mesh", "res://.import/rollingPin.obj-c015c52592779e9d479f54105b910a84.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

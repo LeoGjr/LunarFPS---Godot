@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/dimSum.obj-2c830d908f170bddc55ba762b6454e06.mesh"
+
+[deps]
+
+files=[ "res://.import/dimSum.obj-2c830d908f170bddc55ba762b6454e06.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/dimSum.obj"
+dest_files=[ "res://.import/dimSum.obj-2c830d908f170bddc55ba762b6454e06.mesh", "res://.import/dimSum.obj-2c830d908f170bddc55ba762b6454e06.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corn.obj-f266a2dd7a213018dfbff6c74cc450db.mesh"
+
+[deps]
+
+files=[ "res://.import/corn.obj-f266a2dd7a213018dfbff6c74cc450db.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/corn.obj"
+dest_files=[ "res://.import/corn.obj-f266a2dd7a213018dfbff6c74cc450db.mesh", "res://.import/corn.obj-f266a2dd7a213018dfbff6c74cc450db.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

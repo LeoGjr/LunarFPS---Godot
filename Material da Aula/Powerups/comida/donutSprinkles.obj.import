@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/donutSprinkles.obj-46c4a1061cf7d1a56f4bc8146a48947f.mesh"
+
+[deps]
+
+files=[ "res://.import/donutSprinkles.obj-46c4a1061cf7d1a56f4bc8146a48947f.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/donutSprinkles.obj"
+dest_files=[ "res://.import/donutSprinkles.obj-46c4a1061cf7d1a56f4bc8146a48947f.mesh", "res://.import/donutSprinkles.obj-46c4a1061cf7d1a56f4bc8146a48947f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

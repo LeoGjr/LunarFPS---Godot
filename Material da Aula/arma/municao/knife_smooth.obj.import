@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/knife_smooth.obj-e70e234dac8da2e5e42093776c7bccdc.mesh"
+
+[deps]
+
+files=[ "res://.import/knife_smooth.obj-e70e234dac8da2e5e42093776c7bccdc.mesh" ]
+
+source_file="res://Material da Aula/arma/municao/knife_smooth.obj"
+dest_files=[ "res://.import/knife_smooth.obj-e70e234dac8da2e5e42093776c7bccdc.mesh", "res://.import/knife_smooth.obj-e70e234dac8da2e5e42093776c7bccdc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

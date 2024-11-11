@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/waffle.obj-ae928d1692485365c1b71ae61633051d.mesh"
+
+[deps]
+
+files=[ "res://.import/waffle.obj-ae928d1692485365c1b71ae61633051d.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/waffle.obj"
+dest_files=[ "res://.import/waffle.obj-ae928d1692485365c1b71ae61633051d.mesh", "res://.import/waffle.obj-ae928d1692485365c1b71ae61633051d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

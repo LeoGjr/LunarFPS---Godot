@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mincemeatPie.obj-7d686e585c1fa26d7b0e283169950894.mesh"
+
+[deps]
+
+files=[ "res://.import/mincemeatPie.obj-7d686e585c1fa26d7b0e283169950894.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/mincemeatPie.obj"
+dest_files=[ "res://.import/mincemeatPie.obj-7d686e585c1fa26d7b0e283169950894.mesh", "res://.import/mincemeatPie.obj-7d686e585c1fa26d7b0e283169950894.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

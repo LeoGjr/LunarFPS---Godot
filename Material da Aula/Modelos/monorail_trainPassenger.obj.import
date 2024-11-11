@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/monorail_trainPassenger.obj-84a6b06ded089b6a89cefe691b0ab21c.mesh"
+
+[deps]
+
+files=[ "res://.import/monorail_trainPassenger.obj-84a6b06ded089b6a89cefe691b0ab21c.mesh" ]
+
+source_file="res://Material da Aula/Modelos/monorail_trainPassenger.obj"
+dest_files=[ "res://.import/monorail_trainPassenger.obj-84a6b06ded089b6a89cefe691b0ab21c.mesh", "res://.import/monorail_trainPassenger.obj-84a6b06ded089b6a89cefe691b0ab21c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pot.obj-29b7584d3f06336e43a07faac2f2ee9b.mesh"
+
+[deps]
+
+files=[ "res://.import/pot.obj-29b7584d3f06336e43a07faac2f2ee9b.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/pot.obj"
+dest_files=[ "res://.import/pot.obj-29b7584d3f06336e43a07faac2f2ee9b.mesh", "res://.import/pot.obj-29b7584d3f06336e43a07faac2f2ee9b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

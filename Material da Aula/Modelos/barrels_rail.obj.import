@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/barrels_rail.obj-404029d7f765c307e9be99eabd1f169b.mesh"
+
+[deps]
+
+files=[ "res://.import/barrels_rail.obj-404029d7f765c307e9be99eabd1f169b.mesh" ]
+
+source_file="res://Material da Aula/Modelos/barrels_rail.obj"
+dest_files=[ "res://.import/barrels_rail.obj-404029d7f765c307e9be99eabd1f169b.mesh", "res://.import/barrels_rail.obj-404029d7f765c307e9be99eabd1f169b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

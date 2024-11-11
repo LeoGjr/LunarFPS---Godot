@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/makiVegetable.obj-83faa8ca99ed81166bfd6039c6304a09.mesh"
+
+[deps]
+
+files=[ "res://.import/makiVegetable.obj-83faa8ca99ed81166bfd6039c6304a09.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/makiVegetable.obj"
+dest_files=[ "res://.import/makiVegetable.obj-83faa8ca99ed81166bfd6039c6304a09.mesh", "res://.import/makiVegetable.obj-83faa8ca99ed81166bfd6039c6304a09.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

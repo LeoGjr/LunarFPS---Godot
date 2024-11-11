@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairs_corner.obj-cffa3637c15928403df34beb01beb389.mesh"
+
+[deps]
+
+files=[ "res://.import/stairs_corner.obj-cffa3637c15928403df34beb01beb389.mesh" ]
+
+source_file="res://Material da Aula/Modelos/stairs_corner.obj"
+dest_files=[ "res://.import/stairs_corner.obj-cffa3637c15928403df34beb01beb389.mesh", "res://.import/stairs_corner.obj-cffa3637c15928403df34beb01beb389.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cake.obj-b84d36024d3b13f778c36c2ff88ce293.mesh"
+
+[deps]
+
+files=[ "res://.import/cake.obj-b84d36024d3b13f778c36c2ff88ce293.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cake.obj"
+dest_files=[ "res://.import/cake.obj-b84d36024d3b13f778c36c2ff88ce293.mesh", "res://.import/cake.obj-b84d36024d3b13f778c36c2ff88ce293.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

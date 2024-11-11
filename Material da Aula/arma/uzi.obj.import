@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uzi.obj-5790b1ebbc30dd6b69a79ecfbb144257.mesh"
+
+[deps]
+
+files=[ "res://.import/uzi.obj-5790b1ebbc30dd6b69a79ecfbb144257.mesh" ]
+
+source_file="res://Material da Aula/arma/uzi.obj"
+dest_files=[ "res://.import/uzi.obj-5790b1ebbc30dd6b69a79ecfbb144257.mesh", "res://.import/uzi.obj-5790b1ebbc30dd6b69a79ecfbb144257.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

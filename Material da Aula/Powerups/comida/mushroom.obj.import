@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom.obj-41748312b6a7a89bd47e21bbef1af6fe.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom.obj-41748312b6a7a89bd47e21bbef1af6fe.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/mushroom.obj"
+dest_files=[ "res://.import/mushroom.obj-41748312b6a7a89bd47e21bbef1af6fe.mesh", "res://.import/mushroom.obj-41748312b6a7a89bd47e21bbef1af6fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

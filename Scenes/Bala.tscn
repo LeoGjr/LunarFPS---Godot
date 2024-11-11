@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Material da Aula/arma/municao/ammo_machinegun.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://Scripts/Bala.gd" type="Script" id=2]
+
+[sub_resource type="CapsuleShape" id=1]
+radius = 0.05
+height = 0.01
+
+[node name="Bala" type="Area"]
+script = ExtResource( 2 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+shape = SubResource( 1 )
+
+[node name="bala" type="MeshInstance" parent="."]
+transform = Transform( 12, 0, 0, 0, -5.24537e-07, -12, 0, 12, -5.24537e-07, 0, 0, 0 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 5.0
+autostart = true
+
+[connection signal="body_entered" from="." to="." method="_on_Bala_body_entered"]
+[connection signal="timeout" from="Timer" to="." method="destroy"]

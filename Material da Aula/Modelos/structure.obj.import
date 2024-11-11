@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/structure.obj-c1ecf52624250e9a6aaf634942d1d6e0.mesh"
+
+[deps]
+
+files=[ "res://.import/structure.obj-c1ecf52624250e9a6aaf634942d1d6e0.mesh" ]
+
+source_file="res://Material da Aula/Modelos/structure.obj"
+dest_files=[ "res://.import/structure.obj-c1ecf52624250e9a6aaf634942d1d6e0.mesh", "res://.import/structure.obj-c1ecf52624250e9a6aaf634942d1d6e0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

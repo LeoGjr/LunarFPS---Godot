@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/terrain_roadStraight.obj-f18c7d9c0fbfe8f2ed8a68d26e0a85a7.mesh"
+
+[deps]
+
+files=[ "res://.import/terrain_roadStraight.obj-f18c7d9c0fbfe8f2ed8a68d26e0a85a7.mesh" ]
+
+source_file="res://Material da Aula/Modelos/terrain_roadStraight.obj"
+dest_files=[ "res://.import/terrain_roadStraight.obj-f18c7d9c0fbfe8f2ed8a68d26e0a85a7.mesh", "res://.import/terrain_roadStraight.obj-f18c7d9c0fbfe8f2ed8a68d26e0a85a7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

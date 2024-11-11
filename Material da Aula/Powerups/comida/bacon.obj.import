@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bacon.obj-e54a0d9e8da7f677cdb1e723cc4dbc00.mesh"
+
+[deps]
+
+files=[ "res://.import/bacon.obj-e54a0d9e8da7f677cdb1e723cc4dbc00.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/bacon.obj"
+dest_files=[ "res://.import/bacon.obj-e54a0d9e8da7f677cdb1e723cc4dbc00.mesh", "res://.import/bacon.obj-e54a0d9e8da7f677cdb1e723cc4dbc00.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

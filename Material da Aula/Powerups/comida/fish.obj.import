@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fish.obj-8a1a53071a77e36887d815c88826766b.mesh"
+
+[deps]
+
+files=[ "res://.import/fish.obj-8a1a53071a77e36887d815c88826766b.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/fish.obj"
+dest_files=[ "res://.import/fish.obj-8a1a53071a77e36887d815c88826766b.mesh", "res://.import/fish.obj-8a1a53071a77e36887d815c88826766b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

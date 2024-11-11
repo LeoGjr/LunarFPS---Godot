@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plateRectangle.obj-d5317794699e1788fb113596c3f75051.mesh"
+
+[deps]
+
+files=[ "res://.import/plateRectangle.obj-d5317794699e1788fb113596c3f75051.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/plateRectangle.obj"
+dest_files=[ "res://.import/plateRectangle.obj-d5317794699e1788fb113596c3f75051.mesh", "res://.import/plateRectangle.obj-d5317794699e1788fb113596c3f75051.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_entrance.obj-4a1a9e9556672b51db85a2e6d825bead.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_entrance.obj-4a1a9e9556672b51db85a2e6d825bead.mesh" ]
+
+source_file="res://Material da Aula/Modelos/pipe_entrance.obj"
+dest_files=[ "res://.import/pipe_entrance.obj-4a1a9e9556672b51db85a2e6d825bead.mesh", "res://.import/pipe_entrance.obj-4a1a9e9556672b51db85a2e6d825bead.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

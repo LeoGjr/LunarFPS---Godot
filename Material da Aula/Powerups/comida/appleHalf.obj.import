@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/appleHalf.obj-7932084aeeba2010650395a620d2fb59.mesh"
+
+[deps]
+
+files=[ "res://.import/appleHalf.obj-7932084aeeba2010650395a620d2fb59.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/appleHalf.obj"
+dest_files=[ "res://.import/appleHalf.obj-7932084aeeba2010650395a620d2fb59.mesh", "res://.import/appleHalf.obj-7932084aeeba2010650395a620d2fb59.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pearHalf.obj-d2f621d10e350d1548f484509602c327.mesh"
+
+[deps]
+
+files=[ "res://.import/pearHalf.obj-d2f621d10e350d1548f484509602c327.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/pearHalf.obj"
+dest_files=[ "res://.import/pearHalf.obj-d2f621d10e350d1548f484509602c327.mesh", "res://.import/pearHalf.obj-d2f621d10e350d1548f484509602c327.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

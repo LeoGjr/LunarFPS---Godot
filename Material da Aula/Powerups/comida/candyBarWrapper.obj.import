@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/candyBarWrapper.obj-1c6f117264bfe38ee4e2313432c93812.mesh"
+
+[deps]
+
+files=[ "res://.import/candyBarWrapper.obj-1c6f117264bfe38ee4e2313432c93812.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/candyBarWrapper.obj"
+dest_files=[ "res://.import/candyBarWrapper.obj-1c6f117264bfe38ee4e2313432c93812.mesh", "res://.import/candyBarWrapper.obj-1c6f117264bfe38ee4e2313432c93812.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

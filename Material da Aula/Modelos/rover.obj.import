@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rover.obj-f8419f08baa302fd9bae172be1ea65bb.mesh"
+
+[deps]
+
+files=[ "res://.import/rover.obj-f8419f08baa302fd9bae172be1ea65bb.mesh" ]
+
+source_file="res://Material da Aula/Modelos/rover.obj"
+dest_files=[ "res://.import/rover.obj-f8419f08baa302fd9bae172be1ea65bb.mesh", "res://.import/rover.obj-f8419f08baa302fd9bae172be1ea65bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

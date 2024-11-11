@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatRaw.obj-573461a202c349a4eec45a93a397ddc9.mesh"
+
+[deps]
+
+files=[ "res://.import/meatRaw.obj-573461a202c349a4eec45a93a397ddc9.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/meatRaw.obj"
+dest_files=[ "res://.import/meatRaw.obj-573461a202c349a4eec45a93a397ddc9.mesh", "res://.import/meatRaw.obj-573461a202c349a4eec45a93a397ddc9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

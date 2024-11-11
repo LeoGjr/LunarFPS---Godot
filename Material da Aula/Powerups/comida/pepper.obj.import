@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pepper.obj-56f72b25506b36064261f39054db58c8.mesh"
+
+[deps]
+
+files=[ "res://.import/pepper.obj-56f72b25506b36064261f39054db58c8.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/pepper.obj"
+dest_files=[ "res://.import/pepper.obj-56f72b25506b36064261f39054db58c8.mesh", "res://.import/pepper.obj-56f72b25506b36064261f39054db58c8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

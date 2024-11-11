@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plateSauerkraut.obj-a84d1f5dabee02e18f2aa820fa771d3d.mesh"
+
+[deps]
+
+files=[ "res://.import/plateSauerkraut.obj-a84d1f5dabee02e18f2aa820fa771d3d.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/plateSauerkraut.obj"
+dest_files=[ "res://.import/plateSauerkraut.obj-a84d1f5dabee02e18f2aa820fa771d3d.mesh", "res://.import/plateSauerkraut.obj-a84d1f5dabee02e18f2aa820fa771d3d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

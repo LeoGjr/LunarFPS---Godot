@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cupTea.obj-9fb9b029c7be5a6801d5cbc5bd1acdf8.mesh"
+
+[deps]
+
+files=[ "res://.import/cupTea.obj-9fb9b029c7be5a6801d5cbc5bd1acdf8.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cupTea.obj"
+dest_files=[ "res://.import/cupTea.obj-9fb9b029c7be5a6801d5cbc5bd1acdf8.mesh", "res://.import/cupTea.obj-9fb9b029c7be5a6801d5cbc5bd1acdf8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

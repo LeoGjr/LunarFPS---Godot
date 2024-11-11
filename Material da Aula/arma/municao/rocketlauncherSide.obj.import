@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocketlauncherSide.obj-1ea1654b531e6173697b46b427b0c59d.mesh"
+
+[deps]
+
+files=[ "res://.import/rocketlauncherSide.obj-1ea1654b531e6173697b46b427b0c59d.mesh" ]
+
+source_file="res://Material da Aula/arma/municao/rocketlauncherSide.obj"
+dest_files=[ "res://.import/rocketlauncherSide.obj-1ea1654b531e6173697b46b427b0c59d.mesh", "res://.import/rocketlauncherSide.obj-1ea1654b531e6173697b46b427b0c59d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

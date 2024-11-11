@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uziGold.obj-26650267656c0db911723f22bf02d9fe.mesh"
+
+[deps]
+
+files=[ "res://.import/uziGold.obj-26650267656c0db911723f22bf02d9fe.mesh" ]
+
+source_file="res://Material da Aula/arma/municao/uziGold.obj"
+dest_files=[ "res://.import/uziGold.obj-26650267656c0db911723f22bf02d9fe.mesh", "res://.import/uziGold.obj-26650267656c0db911723f22bf02d9fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

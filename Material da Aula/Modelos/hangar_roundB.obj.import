@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hangar_roundB.obj-46abe1c0aff03c7229da51129fc94743.mesh"
+
+[deps]
+
+files=[ "res://.import/hangar_roundB.obj-46abe1c0aff03c7229da51129fc94743.mesh" ]
+
+source_file="res://Material da Aula/Modelos/hangar_roundB.obj"
+dest_files=[ "res://.import/hangar_roundB.obj-46abe1c0aff03c7229da51129fc94743.mesh", "res://.import/hangar_roundB.obj-46abe1c0aff03c7229da51129fc94743.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

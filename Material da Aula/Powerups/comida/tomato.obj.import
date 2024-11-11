@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tomato.obj-b20166b870641c542580aae0e50cf8f9.mesh"
+
+[deps]
+
+files=[ "res://.import/tomato.obj-b20166b870641c542580aae0e50cf8f9.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/tomato.obj"
+dest_files=[ "res://.import/tomato.obj-b20166b870641c542580aae0e50cf8f9.mesh", "res://.import/tomato.obj-b20166b870641c542580aae0e50cf8f9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

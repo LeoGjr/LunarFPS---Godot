@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_straight.obj-71f62053b8806b2c89c835b58f61483b.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_straight.obj-71f62053b8806b2c89c835b58f61483b.mesh" ]
+
+source_file="res://Material da Aula/Modelos/pipe_straight.obj"
+dest_files=[ "res://.import/pipe_straight.obj-71f62053b8806b2c89c835b58f61483b.mesh", "res://.import/pipe_straight.obj-71f62053b8806b2c89c835b58f61483b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

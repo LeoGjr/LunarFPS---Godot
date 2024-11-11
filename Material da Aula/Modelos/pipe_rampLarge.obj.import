@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_rampLarge.obj-ed0eb3f01da0c128d225767c247f095c.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_rampLarge.obj-ed0eb3f01da0c128d225767c247f095c.mesh" ]
+
+source_file="res://Material da Aula/Modelos/pipe_rampLarge.obj"
+dest_files=[ "res://.import/pipe_rampLarge.obj-ed0eb3f01da0c128d225767c247f095c.mesh", "res://.import/pipe_rampLarge.obj-ed0eb3f01da0c128d225767c247f095c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

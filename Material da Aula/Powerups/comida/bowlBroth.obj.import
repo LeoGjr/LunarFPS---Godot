@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bowlBroth.obj-b9e8f58fb6ec1c3427656d164ca64413.mesh"
+
+[deps]
+
+files=[ "res://.import/bowlBroth.obj-b9e8f58fb6ec1c3427656d164ca64413.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/bowlBroth.obj"
+dest_files=[ "res://.import/bowlBroth.obj-b9e8f58fb6ec1c3427656d164ca64413.mesh", "res://.import/bowlBroth.obj-b9e8f58fb6ec1c3427656d164ca64413.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

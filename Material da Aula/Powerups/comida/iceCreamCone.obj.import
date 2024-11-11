@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/iceCreamCone.obj-3ec3ed3a247c4ad517397723f59b2cc9.mesh"
+
+[deps]
+
+files=[ "res://.import/iceCreamCone.obj-3ec3ed3a247c4ad517397723f59b2cc9.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/iceCreamCone.obj"
+dest_files=[ "res://.import/iceCreamCone.obj-3ec3ed3a247c4ad517397723f59b2cc9.mesh", "res://.import/iceCreamCone.obj-3ec3ed3a247c4ad517397723f59b2cc9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

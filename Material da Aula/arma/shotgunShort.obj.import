@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shotgunShort.obj-f26ddaea86812181f917d5444d99923e.mesh"
+
+[deps]
+
+files=[ "res://.import/shotgunShort.obj-f26ddaea86812181f917d5444d99923e.mesh" ]
+
+source_file="res://Material da Aula/arma/shotgunShort.obj"
+dest_files=[ "res://.import/shotgunShort.obj-f26ddaea86812181f917d5444d99923e.mesh", "res://.import/shotgunShort.obj-f26ddaea86812181f917d5444d99923e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/loafRound.obj-143cd720d035dabe6b370a97c015ca7f.mesh"
+
+[deps]
+
+files=[ "res://.import/loafRound.obj-143cd720d035dabe6b370a97c015ca7f.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/loafRound.obj"
+dest_files=[ "res://.import/loafRound.obj-143cd720d035dabe6b370a97c015ca7f.mesh", "res://.import/loafRound.obj-143cd720d035dabe6b370a97c015ca7f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

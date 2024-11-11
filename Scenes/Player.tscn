@@ -1,0 +1,90 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Material da Aula/arma/sniperCamo.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://Scripts/Player.gd" type="Script" id=2]
+[ext_resource path="res://Material da Aula/sons/tiro.wav" type="AudioStream" id=3]
+[ext_resource path="res://Material da Aula/sons/vidas.wav" type="AudioStream" id=4]
+[ext_resource path="res://Material da Aula/sons/tema.wav" type="AudioStream" id=5]
+[ext_resource path="res://Material da Aula/sons/dano.wav" type="AudioStream" id=6]
+[ext_resource path="res://Material da Aula/sons/municao.wav" type="AudioStream" id=7]
+[ext_resource path="res://Material da Aula/sons/morteinimigo.wav" type="AudioStream" id=8]
+
+[sub_resource type="CapsuleShape" id=1]
+radius = 0.4
+height = 1.4
+
+[node name="Player" type="KinematicBody"]
+script = ExtResource( 2 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 1.959, 0 )
+shape = SubResource( 1 )
+
+[node name="Camera" type="Camera" parent="."]
+
+[node name="arma" type="MeshInstance" parent="Camera"]
+transform = Transform( -7.63018, -0.416935, -2.36781, -0.989848, 7.72483, 1.82953, 2.19101, 2.03792, -7.41932, 0.261, -0.245, -0.611 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+material/21 = null
+material/22 = null
+material/23 = null
+material/24 = null
+material/25 = null
+material/26 = null
+material/27 = null
+material/28 = null
+material/29 = null
+material/30 = null
+material/31 = null
+material/32 = null
+material/33 = null
+material/34 = null
+material/35 = null
+material/36 = null
+material/37 = null
+material/38 = null
+material/39 = null
+material/40 = null
+material/41 = null
+
+[node name="bala" type="Spatial" parent="Camera/arma"]
+transform = Transform( 1, 8.9407e-08, -2.98023e-07, 7.45058e-08, 1, -1.49012e-08, -2.08616e-07, -1.49012e-08, 1, -0.004, 0.001, 0.082 )
+
+[node name="tiro" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 3 )
+
+[node name="municao" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 7 )
+
+[node name="vidas" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 4 )
+
+[node name="morteinimigo" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 8 )
+
+[node name="dano" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 6 )
+
+[node name="tema" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 5 )

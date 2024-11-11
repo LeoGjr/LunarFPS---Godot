@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cakeBirthday.obj-f44ad12ce05903b53cdd34e32ca419eb.mesh"
+
+[deps]
+
+files=[ "res://.import/cakeBirthday.obj-f44ad12ce05903b53cdd34e32ca419eb.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cakeBirthday.obj"
+dest_files=[ "res://.import/cakeBirthday.obj-f44ad12ce05903b53cdd34e32ca419eb.mesh", "res://.import/cakeBirthday.obj-f44ad12ce05903b53cdd34e32ca419eb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

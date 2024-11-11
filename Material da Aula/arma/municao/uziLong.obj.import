@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uziLong.obj-cc79e58db36d4eafb07de2eeb3ebace9.mesh"
+
+[deps]
+
+files=[ "res://.import/uziLong.obj-cc79e58db36d4eafb07de2eeb3ebace9.mesh" ]
+
+source_file="res://Material da Aula/arma/municao/uziLong.obj"
+dest_files=[ "res://.import/uziLong.obj-cc79e58db36d4eafb07de2eeb3ebace9.mesh", "res://.import/uziLong.obj-cc79e58db36d4eafb07de2eeb3ebace9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

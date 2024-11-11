@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingSpatula.obj-a4d2e2504ee793535cab8a134488bc93.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingSpatula.obj-a4d2e2504ee793535cab8a134488bc93.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cookingSpatula.obj"
+dest_files=[ "res://.import/cookingSpatula.obj-a4d2e2504ee793535cab8a134488bc93.mesh", "res://.import/cookingSpatula.obj-a4d2e2504ee793535cab8a134488bc93.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

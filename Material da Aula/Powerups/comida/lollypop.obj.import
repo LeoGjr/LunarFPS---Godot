@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lollypop.obj-47b06356e6b922f92888865c4707c0cb.mesh"
+
+[deps]
+
+files=[ "res://.import/lollypop.obj-47b06356e6b922f92888865c4707c0cb.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/lollypop.obj"
+dest_files=[ "res://.import/lollypop.obj-47b06356e6b922f92888865c4707c0cb.mesh", "res://.import/lollypop.obj-47b06356e6b922f92888865c4707c0cb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

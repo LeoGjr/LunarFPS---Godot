@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sausage.obj-56a1f19eedf139e1780ff9ccf424c8a5.mesh"
+
+[deps]
+
+files=[ "res://.import/sausage.obj-56a1f19eedf139e1780ff9ccf424c8a5.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/sausage.obj"
+dest_files=[ "res://.import/sausage.obj-56a1f19eedf139e1780ff9ccf424c8a5.mesh", "res://.import/sausage.obj-56a1f19eedf139e1780ff9ccf424c8a5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

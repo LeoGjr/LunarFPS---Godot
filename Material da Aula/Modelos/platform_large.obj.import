@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/platform_large.obj-5e578ae48e769c71f5210d861a2ea16f.mesh"
+
+[deps]
+
+files=[ "res://.import/platform_large.obj-5e578ae48e769c71f5210d861a2ea16f.mesh" ]
+
+source_file="res://Material da Aula/Modelos/platform_large.obj"
+dest_files=[ "res://.import/platform_large.obj-5e578ae48e769c71f5210d861a2ea16f.mesh", "res://.import/platform_large.obj-5e578ae48e769c71f5210d861a2ea16f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sushiEgg.obj-54a82418557f6db5f4a91428b168efcb.mesh"
+
+[deps]
+
+files=[ "res://.import/sushiEgg.obj-54a82418557f6db5f4a91428b168efcb.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/sushiEgg.obj"
+dest_files=[ "res://.import/sushiEgg.obj-54a82418557f6db5f4a91428b168efcb.mesh", "res://.import/sushiEgg.obj-54a82418557f6db5f4a91428b168efcb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chopstick.obj-d5164cca4f062e712b288bb70251dfa6.mesh"
+
+[deps]
+
+files=[ "res://.import/chopstick.obj-d5164cca4f062e712b288bb70251dfa6.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/chopstick.obj"
+dest_files=[ "res://.import/chopstick.obj-d5164cca4f062e712b288bb70251dfa6.mesh", "res://.import/chopstick.obj-d5164cca4f062e712b288bb70251dfa6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

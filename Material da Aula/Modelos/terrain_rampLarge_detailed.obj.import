@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/terrain_rampLarge_detailed.obj-93b233b07549185e0e85b84451613964.mesh"
+
+[deps]
+
+files=[ "res://.import/terrain_rampLarge_detailed.obj-93b233b07549185e0e85b84451613964.mesh" ]
+
+source_file="res://Material da Aula/Modelos/terrain_rampLarge_detailed.obj"
+dest_files=[ "res://.import/terrain_rampLarge_detailed.obj-93b233b07549185e0e85b84451613964.mesh", "res://.import/terrain_rampLarge_detailed.obj-93b233b07549185e0e85b84451613964.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

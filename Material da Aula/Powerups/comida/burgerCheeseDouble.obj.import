@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/burgerCheeseDouble.obj-3077c2b9cd805b56a05c9e7294e6b117.mesh"
+
+[deps]
+
+files=[ "res://.import/burgerCheeseDouble.obj-3077c2b9cd805b56a05c9e7294e6b117.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/burgerCheeseDouble.obj"
+dest_files=[ "res://.import/burgerCheeseDouble.obj-3077c2b9cd805b56a05c9e7294e6b117.mesh", "res://.import/burgerCheeseDouble.obj-3077c2b9cd805b56a05c9e7294e6b117.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

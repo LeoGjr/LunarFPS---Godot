@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingKnifeChopping.obj-3608136fbb9bf3f3f1240c21a96aac54.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingKnifeChopping.obj-3608136fbb9bf3f3f1240c21a96aac54.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cookingKnifeChopping.obj"
+dest_files=[ "res://.import/cookingKnifeChopping.obj-3608136fbb9bf3f3f1240c21a96aac54.mesh", "res://.import/cookingKnifeChopping.obj-3608136fbb9bf3f3f1240c21a96aac54.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

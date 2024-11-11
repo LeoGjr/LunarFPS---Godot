@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/eggHalf.obj-1710533933957c91630df257fd5c199d.mesh"
+
+[deps]
+
+files=[ "res://.import/eggHalf.obj-1710533933957c91630df257fd5c199d.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/eggHalf.obj"
+dest_files=[ "res://.import/eggHalf.obj-1710533933957c91630df257fd5c199d.mesh", "res://.import/eggHalf.obj-1710533933957c91630df257fd5c199d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

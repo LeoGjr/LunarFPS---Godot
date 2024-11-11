@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chocolateWrapper.obj-ff1bb7b3fe1b12270389c91fabcd0cda.mesh"
+
+[deps]
+
+files=[ "res://.import/chocolateWrapper.obj-ff1bb7b3fe1b12270389c91fabcd0cda.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/chocolateWrapper.obj"
+dest_files=[ "res://.import/chocolateWrapper.obj-ff1bb7b3fe1b12270389c91fabcd0cda.mesh", "res://.import/chocolateWrapper.obj-ff1bb7b3fe1b12270389c91fabcd0cda.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

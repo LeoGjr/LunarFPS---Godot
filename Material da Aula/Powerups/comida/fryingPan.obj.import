@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fryingPan.obj-a347082bccbc91f65f91232addd8617e.mesh"
+
+[deps]
+
+files=[ "res://.import/fryingPan.obj-a347082bccbc91f65f91232addd8617e.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/fryingPan.obj"
+dest_files=[ "res://.import/fryingPan.obj-a347082bccbc91f65f91232addd8617e.mesh", "res://.import/fryingPan.obj-a347082bccbc91f65f91232addd8617e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/onion.obj-51f5b35880d50c028ebdef24ba8167e8.mesh"
+
+[deps]
+
+files=[ "res://.import/onion.obj-51f5b35880d50c028ebdef24ba8167e8.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/onion.obj"
+dest_files=[ "res://.import/onion.obj-51f5b35880d50c028ebdef24ba8167e8.mesh", "res://.import/onion.obj-51f5b35880d50c028ebdef24ba8167e8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

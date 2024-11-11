@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mortar.obj-718ef2e52c5733bc3fb1a3fb34815729.mesh"
+
+[deps]
+
+files=[ "res://.import/mortar.obj-718ef2e52c5733bc3fb1a3fb34815729.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/mortar.obj"
+dest_files=[ "res://.import/mortar.obj-718ef2e52c5733bc3fb1a3fb34815729.mesh", "res://.import/mortar.obj-718ef2e52c5733bc3fb1a3fb34815729.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

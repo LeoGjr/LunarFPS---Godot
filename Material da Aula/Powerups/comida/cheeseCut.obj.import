@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cheeseCut.obj-9820816c79b316184fce459c8eed66b0.mesh"
+
+[deps]
+
+files=[ "res://.import/cheeseCut.obj-9820816c79b316184fce459c8eed66b0.mesh" ]
+
+source_file="res://Material da Aula/Powerups/comida/cheeseCut.obj"
+dest_files=[ "res://.import/cheeseCut.obj-9820816c79b316184fce459c8eed66b0.mesh", "res://.import/cheeseCut.obj-9820816c79b316184fce459c8eed66b0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
